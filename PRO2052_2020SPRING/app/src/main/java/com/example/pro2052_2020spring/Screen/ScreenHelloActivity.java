@@ -12,6 +12,6 @@ public class ScreenHelloActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("hello");
+        setTitle("hello hay choi choi di hoc chi");
     }
 }
