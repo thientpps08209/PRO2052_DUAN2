@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='PRO2052_2020SPRING'
